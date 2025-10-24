@@ -3,6 +3,9 @@
 A complete step-by-step guide to becoming a **Data Engineer** — from beginner to advanced.  
 This roadmap covers everything: foundations, ETL, data warehousing, cloud, big data, and real projects.
 
+[![Watch the video](https://img.youtube.com/vi/cNl1wUc0NNo/maxresdefault.jpg)](https://www.youtube.com/watch?v=cNl1wUc0NNo)
+
+
 ---
 
 ## 🌱 Phase 1: Core Foundations
@@ -279,6 +282,7 @@ Turn data into insights.
   - Snowflake SnowPro Core  
   - AWS Data Engineer Associate  
   - Databricks Certified Data Engineer  
+
 
 
 
