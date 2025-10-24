@@ -278,4 +278,7 @@ Turn data into insights.
 - Earn certifications:
   - Snowflake SnowPro Core  
   - AWS Data Engineer Associate  
-  - Databricks Certified Data Engineer  
+  - Databricks Certified Data Engineer
+
+## Happy Learning
+~ Team DecodingDigitalAge
