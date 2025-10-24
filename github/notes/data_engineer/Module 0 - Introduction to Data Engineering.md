@@ -1,6 +1,6 @@
 # Module 0 - Introduction to Data Engineering
 
-# 🧠 Data Engineering Roadmap (2025)
+## 🧠 Data Engineering Roadmap (2025)
 
 A complete step-by-step guide to becoming a **Data Engineer** — from beginner to advanced.  
 This roadmap covers everything: foundations, ETL, data warehousing, cloud, big data, and real projects.
@@ -281,4 +281,5 @@ Turn data into insights.
   - Snowflake SnowPro Core  
   - AWS Data Engineer Associate  
   - Databricks Certified Data Engineer  
+
 
