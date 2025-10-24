@@ -3,7 +3,12 @@
 A complete step-by-step guide to becoming a **Data Engineer** — from beginner to advanced.  
 This roadmap covers everything: foundations, ETL, data warehousing, cloud, big data, and real projects.
 
-[![Watch the video](https://img.youtube.com/vi/cNl1wUc0NNo/maxresdefault.jpg)](https://www.youtube.com/watch?v=cNl1wUc0NNo)
+<a href="https://www.youtube.com/watch?v=cNl1wUc0NNo" target="_blank">
+  <img src="https://img.youtube.com/vi/cNl1wUc0NNo/maxresdefault.jpg" 
+       alt="Watch the video"
+       width="600" 
+       style="border-radius:12px; box-shadow:0 0 10px rgba(0,0,0,0.3);">
+</a>
 
 
 ---
