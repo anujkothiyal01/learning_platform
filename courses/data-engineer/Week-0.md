@@ -1,6 +1,8 @@
 # ⚔️ DecodingDigitalAge — The Vanguard Protocol
 > *Decode Today. Lead Tomorrow.*
 
+<img width="825" height="737" alt="all_badges" src="https://github.com/user-attachments/assets/9a41ac34-43ec-45a1-bb48-fca513ca056f" />
+
 Welcome to **The Vanguard Protocol**, an elite recognition system by **DecodingDigitalAge**.  
 Each badge represents a mindset — a mark of excellence earned through action, creativity, and leadership in the digital frontier.
 
@@ -82,3 +84,4 @@ Each badge earned marks your evolution — from learner to leader, from builder 
 You’re not just learning the digital age. You’re defining it.
 
 ---
+
