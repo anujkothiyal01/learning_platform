@@ -26,11 +26,13 @@
 #### 12 Must-Master Patterns:
 
 1. **Pyramid**
-<pre class="pattern"><code>    *
+```text
+    *
    ***
   *****
  *******
-*********</code></pre>
+*********
+```
 
 2. **Diamond**
 <pre class="pattern"><code>    *
@@ -192,5 +194,6 @@ ABCDEDCBA</code></pre>
 ---
 
 **#DecodingDigitalAge | Day 1 – No AI. Just You.**
+
 
 
