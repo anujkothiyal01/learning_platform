@@ -5,7 +5,6 @@
 
 ### Solve in **Any Language** (Python, Java, C++, JS, Go, etc.)
 
-#### 12 Must-Master Patterns:
 
 1. **Pyramid**
 <pre class="pattern"><code>    *
@@ -102,3 +101,4 @@ ABCDEDCBA</code></pre>
   *****
  *******
 *********</code></pre>
+
