@@ -26,15 +26,16 @@
 #### 12 Must-Master Patterns:
 
 1. **Pyramid**
-
+```text
     *
    ***
   *****
  *******
 *********
+```
 
 2. **Diamond**
-
+```text
     *
    ***
   *****
@@ -44,9 +45,11 @@
   *****
    ***
     *
-    
+```
+
 3. **Hollow Diamond**
-<pre class="pattern"><code>    *
+```text
+    *
    * *
   *   *
  *     *
@@ -54,21 +57,26 @@
  *     *
   *   *
    * *
-    *</code></pre>
+    *
+```
 
-4. **Number Pyramid**
-<pre class="pattern"><code>    1
+5. **Number Pyramid**
+```text
+    1
    121
   12321
  1234321
-123454321</code></pre>
+123454321
+```
 
 5. **Pascal’s Triangle**
-<pre class="pattern"><code>     1
+```text
+     1
     1 1
    1 2 1
   1 3 3 1
- 1 4 6 4 1</code></pre>
+ 1 4 6 4 1
+ ```
 
 6. **Floyd’s Triangle**
 <pre class="pattern"><code>1
@@ -194,6 +202,7 @@ ABCDEDCBA</code></pre>
 ---
 
 **#DecodingDigitalAge | Day 1 – No AI. Just You.**
+
 
 
 
