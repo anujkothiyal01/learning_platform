@@ -3,7 +3,8 @@
 ---
 ## Week - 1 [Decode **Programming Language**]
 **Badge:** `Initiator`
-<img width="200" height="200" alt="Initiator Badge" src="https://github.com/user-attachments/assets/88496d50-587d-43bb-88c0-299b2e97d0cb" />
+> <img width="200" height="200" alt="Initiator Badge" src="https://github.com/user-attachments/assets/88496d50-587d-43bb-88c0-299b2e97d0cb" />
+> 
 > *“Great coders don’t code in Python, Java, or C++. They code in **logic**.”*
 ---
 | Day | **Theme** | **Mission** | **Badge Progress** |
@@ -191,4 +192,5 @@ ABCDEDCBA</code></pre>
 ---
 
 **#DecodingDigitalAge | Day 1 – No AI. Just You.**
+
 
