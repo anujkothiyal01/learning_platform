@@ -30,7 +30,7 @@
    ***
   *****
  *******
-*********
+*********</code></pre>
 
 2. **Diamond**
 <pre class="pattern"><code>    *
@@ -41,7 +41,7 @@
  *******
   *****
    ***
-    *
+    *</code></pre>
 
 3. **Hollow Diamond**
 <pre class="pattern"><code>    *
@@ -52,21 +52,21 @@
  *     *
   *   *
    * *
-    *
+    *</code></pre>
 
 5. **Number Pyramid**
 <pre class="pattern"><code>    1
    121
   12321
  1234321
-123454321
+123454321</code></pre>
 
 5. **Pascal’s Triangle**
 <pre class="pattern"><code>     1
     1 1
    1 2 1
   1 3 3 1
- 1 4 6 4 1
+ 1 4 6 4 1</code></pre>
 
 6. **Floyd’s Triangle**
 <pre class="pattern"><code>1
@@ -192,6 +192,7 @@ ABCDEDCBA</code></pre>
 ---
 
 **#DecodingDigitalAge | Day 1 – No AI. Just You.**
+
 
 
 
